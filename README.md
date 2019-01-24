@@ -5,8 +5,8 @@ Github test
 
 
 /* 
-* hello2Function.cpp 
-* 
+  hello2Function.cpp 
+ 
 */
 #include <iostream>
   usingnamespace std;
